@@ -9,6 +9,7 @@ public class do_while01 {
 
         int num, somaPositivo=0;
 
+        //Laço de Repetição Do...While
         do {
             System.out.println("\nDigite um número inteiro: ");
             num = sc.nextInt();
