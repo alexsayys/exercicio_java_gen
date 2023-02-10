@@ -1,6 +1,8 @@
+package condicionais;
+
 import java.util.Scanner;
 
-public class exercicio6 {
+public class exercicio5 {
     public static void main(String[] args) {
 
         int cod,qtd, valor;

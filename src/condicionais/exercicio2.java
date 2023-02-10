@@ -25,7 +25,7 @@ public class exercicio2 {
             System.out.printf("\nO número %d é ímpar e negativo", num);
         }
         else if (num == 0) {
-            System.out.printf("\nO número %d representa a ausência de valor ou quantidade.\nPortanto, não pode ser considerado negativo ou positivo, impar ou par.", num);
+            System.out.printf("\nO número %d é par representa a ausência de valor ou quantidade.\nPortanto, não pode ser considerado negativo ou positivo.", num);
         }
         else {
             System.out.println("\nVerifique o número digitado");
